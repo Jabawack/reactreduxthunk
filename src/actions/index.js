@@ -3,7 +3,7 @@
 import { FETCH_GITHUB_DATA } from './types';
 import axios from 'axios';
 
-const apiUrl = 'https://api.github.com/users/KrunalLathiya';
+const apiUrl = 'https://api.github.com/users/jabawack';
 
 export const fetchData = (data) => {
   return {
